@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-<section id="blog-section">
-	<div class="container full" id="container06">
+<!-- <section id="blog-section"> -->
+	<div class="container full" id="post-full">
 		<div class="inner">
 			<p id="text05">{{ .Title }}</p>
 			
@@ -12,11 +12,13 @@
 				<span class="post-author">, {{.Params.author }}</span>
 			</div>
 
-			<p id="text08">{{ .Content }}</p>
+			<div id="post-content">
+				{{ .Content }}
+			</div>
 
 			{{ template "_internal/disqus.html" . }}
 		</div>
 	</div>
-</section>
+<!-- </section> -->
 
 {{ end }}

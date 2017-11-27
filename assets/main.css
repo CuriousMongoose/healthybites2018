@@ -1020,17 +1020,18 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text08 br + br {
+#post-content br + br {
 	margin-top: 0.9rem;
 }
 
-#text08 {
+#post-content {
 	text-align: justify;
 	color: #414042;
 	font-family: 'Roboto Slab';
 	font-size: 0.875em;
 	line-height: 1.5;
 	font-weight: 400;
+	padding: 0.25em;
 }
 
 #text24 br + br {

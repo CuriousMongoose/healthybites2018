@@ -1,0 +1,37 @@
++++
+title= "Where it all began – My Story"
+date= 2016-09-03
+draft= false
+
+author= "Susan Conradie"
+featured= ""
+featuredalt= ""
+tags= ["diet", "dietetics", "dietitian", "health", "nutrition"]
+categories= ["articles"]
++++
+
+People love to ask me why I became a dietitian. I weren’t always sure why...
+
+**I am not even always sure that I chose it as much as it chose me...**
+
+When I look back it is as if life was always busy preparing me for that day... I grew up on a farm in the northern regions of South Africa. As a child I had the opportunity to regularly eat fresh home grown food.
+
+Neither of my parents had any experience in the health industry, yet they had so much wisdom of how to raise healthy kids. Sweets were something we only ate on special occasions, and fruits and yogurt were our snacks. Take-away foods and eating out was also really out of the ordinary. Home cooking was part of our daily routine. Before I could write my own name I was able to peel a potato, and by the time I was a teenager my sister and I took turns to cook for our family.
+
+**Everybody in my  family always believed that it is important to live healthy and avoid toxins in your body.**
+
+I was fourteen years old when my dad told me and my sister that we had better be careful, because girls tend to pick up weight at our age. At first it made me angry that he could dare say such a thing, but then it got me thinking. For the first time in my life I got up every morning and went for a jog.
+
+**I took care of what I put in my mouth, and even though I wasn’t overweight, I lost all my baby fat...**
+
+During the same year my grandfather became very sick and couldn’t eat normally and was given specialised nutrition formulas. This was my first exposure to the medical side of nutrition.
+
+When I had to choose a career, I wasn’t really sure what I should do. My one grandma said I should become a nurse, because I always wanted to help people, and the other said I should be a chef because I loved cooking.
+
+While I was researching careers in the medical industry, I came upon dietetics. After talking to some dietetic students I knew it was the right career path for me and never regretted it for a second!
+
+**Dietetics allows me to help people live healthier, and improve their quality of life and longevity.**
+
+The fact that what you eat influences your health always intrigued me. We all need to eat, but what if your choice could either keep you healthy or make you ill? What if our fast-food culture is killing us slowly?
+
+The fact is that it is in your power to live a healthier life, by just deciding what you put into your mouth.
