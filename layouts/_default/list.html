@@ -1,39 +1,26 @@
-	<div class="container full screen" id="container08">
-		<div class="inner">
-			<p id="text21">From the Blog</p>
-		</div>
+{{ define "main" }}
+
+<div class="container full screen" id="container08">
+	<div class="inner">
+		<p id="text21">From the Blog</p>
 	</div>
-	<div class="container full screen" id="container07">
-		<div class="inner">
-			<div>
-				<div class="image" id="image03">
-					<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
-				</div>
-				<ul class="links" id="links04">
-					<li>
-						<a href="http://domain.tld/path">Where it all began – My Story</a>
-					</li>
-				</ul>
+</div>
+<div class="container full screen" id="container07">
+	<div class="inner">
+		{{ range first 3 .Pages }}
+		<div>
+			<div class="image" id="image03">
+				<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
 			</div>
-			<div>
-				<div class="image" id="image02">
-					<img src="assets/images/image02.jpg" alt="Photo by Aleksandr Ledogorov on Unsplash" />
-				</div>
-				<ul class="links" id="links05">
-					<li>
-						<a href="http://domain.tld/path">Make Peace With Yourself</a>
-					</li>
-				</ul>
-			</div>
-			<div>
-				<div class="image" id="image04">
-					<img src="assets/images/image04.jpg" alt="Photo by Ali Inay on Unsplash" />
-				</div>
-				<ul class="links" id="links03">
-					<li>
-						<a href="http://domain.tld/path">The Art of Balance</a>
-					</li>
-				</ul>
-			</div>
+			<ul class="links" id="links04">
+				<li>
+					<a href="http://domain.tld/path">Where it all began – My Story</a>
+				</li>
+			</ul>
 		</div>
+		{{ end }}
+
 	</div>
+</div>
+
+{{ end }}

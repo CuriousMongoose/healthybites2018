@@ -3,11 +3,18 @@
 <section id="blog-section">
 	<div class="container full" id="container06">
 		<div class="inner">
-			<p id="text05">Post Title</p>
+			<p id="text05">{{ .Title }}</p>
 			
-			<p id="text06">Postmeta= Author, Date</p>
+			<div id="text06">
+				<time class="post-date" datetime='{{ .Date.Format "2006-01-02" }}'>
+					{{ .Date.Format "2 January 2006" }}
+				</time>
+				<span class="post-author">, {{.Params.author }}</span>
+			</div>
 
-			<p id="text08">We value people, food and personal preference. We believe that God made food to be enjoyed and to nourish the body. It is very important to find that balance.</p>
+			<p id="text08">{{ .Content }}</p>
+
+			{{ template "_internal/disqus.html" . }}
 		</div>
 	</div>
 </section>
