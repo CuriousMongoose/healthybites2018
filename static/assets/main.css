@@ -58,7 +58,7 @@ html {
 
 @font-face {
 	font-family: "Dekar";
-	src: url("assets/Dekar.otf")
+	src: url("Dekar.otf");
 }
 
 #wrapper {
