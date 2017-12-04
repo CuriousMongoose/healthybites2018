@@ -14,17 +14,14 @@
 	</div>
 	<div class="container full screen" id="container07">
 		<div class="inner">
-			
+			{{ range first 3 .Pages }}
 			<div>
 				<div class="image" id="image03">
 					<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
 				</div>
-				<ul class="links" id="links04">
-					<li>
-						<a href="http://domain.tld/path">Where it all began – My Story</a>
-					</li>
-				</ul>
+					<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</div>
+			{{ end }}
 
 		</div>
 	</div>

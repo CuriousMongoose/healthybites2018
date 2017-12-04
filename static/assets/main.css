@@ -13,8 +13,6 @@ body {
 	background-color: #FFFFFF;
 }
 
-body *{font-family: 'Dekar'}
-
 strong {
 	color: inherit;
 	font-weight: bolder;
@@ -55,11 +53,6 @@ s {
 
 html {
 	font-size: 18pt;
-}
-
-@font-face {
-    font-family: 'Dekar';
-    src: url(Dekar.otf);
 }
 
 #wrapper {

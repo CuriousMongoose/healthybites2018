@@ -12,11 +12,7 @@
 			<div class="image" id="image03">
 				<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
 			</div>
-			<ul class="links" id="links04">
-				<li>
-					<a href="{{ .URL }}">{{ .Title }}</a>
-				</li>
-			</ul>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</div>
 		{{ end }}
 
