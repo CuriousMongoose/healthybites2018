@@ -5,6 +5,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 body {
+	font-family: "Dekar";
 	min-width: 320px;
 	min-height: 100vh;
 	line-height: 1.0;
@@ -53,6 +54,11 @@ s {
 
 html {
 	font-size: 18pt;
+}
+
+@font-face {
+	font-family: "Dekar";
+	src: url("assets/Dekar.otf")
 }
 
 #wrapper {
