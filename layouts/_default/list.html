@@ -10,7 +10,7 @@
 		{{ range first 3 .Pages }}
 		<div>
 			<div class="image" id="image03">
-				<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
+				<img src="{{ .Site.BaseURL }}assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
 			</div>
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</div>
