@@ -8,7 +8,7 @@
 <div class="container full screen" id="container07">
 	<div class="inner">
 		{{ range first 6 .Pages }}
-			{{ .Render summary }}
+			{{ .Render "summary" }}
 		{{ end }}
 
 	</div>
