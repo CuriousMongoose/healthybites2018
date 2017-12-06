@@ -456,18 +456,6 @@ body.is-loading #main {
 	width: calc(33.33333%);
 }
 
-/*#container07 > .inner > :nth-child(1) {
-	width: calc(33.33333% + 0.5rem);
-}
-
-#container07 > .inner > :nth-child(2) {
-	width: calc(33.33333% + 0.5rem);
-}
-
-#container07 > .inner > :nth-child(3) {
-	width: calc(33.33333% + 0.5rem);*/
-}
-
 #container07 > .inner > * > * {
 	margin-top: 0rem;
 	margin-bottom: 0rem;
@@ -479,11 +467,9 @@ body.is-loading #main {
 
 #container07 > .inner > * > *:last-child {
 	margin-bottom: 0 !important;
+	line-height: 2;
 }
 
-/*#container07 > .inner > *:first-child {
-	margin-left: -1.5rem;
-}*/
 
 #container11 > .inner {
 	text-align: center;
@@ -2173,7 +2159,7 @@ form button:disabled {
 	}
 	
 	#container03 > .inner {
-		padding: 2.375rem 0rem;
+		padding: 2.375rem 1rem;
 		max-width: 100%;
 	}
 	
@@ -2219,27 +2205,6 @@ form button:disabled {
 		flex-wrap: nowrap;
 	}
 
-/*	#container07 > .inner > :nth-child(1) {
-		width: calc(33.33333% + 0.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
-	}
-	
-	#container07 > .inner > :nth-child(2) {
-		width: calc(33.33333% + 0.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
-	}
-	
-	#container07 > .inner > :nth-child(3) {
-		width: calc(33.33333% + 0.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
-	}*/
-	
 	#container07 > .inner > * {
 		padding: 0 0 0 1.5rem;
 		padding: 0.75rem 0;
