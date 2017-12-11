@@ -1,3 +1,4 @@
 baseURL = "https://healhtybites.co.za/"
 languageCode = "en-us"
 title = "Healthy Bites"
+disqusShortname = "SusanDietitian"
