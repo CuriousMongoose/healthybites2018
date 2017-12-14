@@ -1,5 +1,5 @@
-baseURL = "https://curiousmongoose.github.io/healthybites2018/"
+baseURL = "https://healthybites.co.za/"
 languageCode = "en-us"
 title = "Healthy Bites"
 disqusShortname = "susandietitian"
-publishDir = "docs"
+publishDir = "public"
