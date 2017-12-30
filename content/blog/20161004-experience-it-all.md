@@ -4,7 +4,7 @@ date= 2016-10-04
 draft= false
 
 author= "Susan Conradie"
-featured= "static/images/uploads/experience-it-all.jpg"
+featured= "images/uploads/experience.jpg"
 featuredalt= "Experience it all"
 tags= ["balance", "dietetics", "health", "lifestyle", "nutrition"]
 +++

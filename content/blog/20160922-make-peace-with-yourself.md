@@ -4,7 +4,7 @@ date= 2016-09-22
 draft= false
 
 author= "Susan Conradie"
-featured= "static/images/uploads/peace.jpg"
+featured= "images/uploads/peace.jpg"
 featuredalt= "Make peace with yourself"
 tags= ["body-image", "health", "nutrition"]
 +++

@@ -15,14 +15,8 @@
 	<div class="container full screen" id="container07">
 		<div class="inner">
 			{{ range first 3 .Pages }}
-			<div>
-				<div class="image" id="image03">
-					<img src="assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
-				</div>
-					<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</div>
+				{{ .Render "summary" }}
 			{{ end }}
-
 		</div>
 	</div>
 

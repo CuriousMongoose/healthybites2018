@@ -4,7 +4,7 @@ date= 2016-09-26
 draft= false
 
 author= "Susan Conradie"
-featured= "static/images/uploads/detox.jpg"
+featured= "images/uploads/detox.jpg"
 featuredalt= "Detox your life"
 tags= ["detox", "dietetics", "health", "lifestyle", "nutrition"]
 +++

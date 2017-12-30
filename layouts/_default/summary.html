@@ -1,6 +1,6 @@
 <div>
 	<div class="image" id="image03">
-		<img src="{{ .Site.BaseURL }}assets/images/image03.jpg" alt="Photo by Jason Wong on Unsplash" />
+		<img src="{{ .Site.BaseURL }}{{.Params.featured }}" alt="{{.Params.featuredalt }}" />
 	</div>
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
 </div>
