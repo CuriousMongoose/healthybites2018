@@ -1,5 +1,5 @@
 baseURL = "https://healthybites.co.za/"
 languageCode = "en-us"
 title = "Healthy Bites"
-disqusShortname = "susandietitian"
+disqusShortname = "healthybites"
 publishDir = "public"
