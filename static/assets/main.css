@@ -265,7 +265,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-image: linear-gradient(to top, rgba(255,255,255,0.502), rgba(255,255,255,0.502)), url('images/container04jpg');
+	background-image: linear-gradient(to top, rgba(255,255,255,0.502), rgba(255,255,255,0.502)), url('images/container04.jpg');
 	background-position: 0% 0%, center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
