@@ -16,6 +16,8 @@
 		<meta name="description" content="Healthy Bites Dietetics" />
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}assets/main.css" />
 		<noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}assets/noscript.css" /></noscript>
+		<!-- Add the Netlify Identity Widget -->
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	</head>
 	
 	<body class="is-loading">
@@ -132,5 +134,18 @@
 			</div>
 		</div>
 		<script src="{{ .Site.BaseURL }}assets/main.js"></script>
+		
+		<!-- Netlify CMS redirect -->
+		<script>
+			if (window.netlifyIdentity) {
+			  window.netlifyIdentity.on("init", user => {
+				if (!user) {
+				  window.netlifyIdentity.on("login", () => {
+					document.location.href = "/admin/";
+				  });
+				}
+			  });
+			}
+		  </script>
 	</body>
 </html>
