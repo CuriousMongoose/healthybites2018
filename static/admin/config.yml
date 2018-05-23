@@ -16,6 +16,6 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "Susan Conradie"}
       - {label: "Featured Image", name: "featured", widget: "image"}
       - {label: "Image Alt Text", name: "featuredalt", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "list", default: [""]}
       - {label: "Tags", name: "tags", widget: "list", default: [""]}
+      - {label: "Body", name: "body", widget: "markdown"}
