@@ -1,13 +1,13 @@
-+++
-title= "Detox Your Life"
-date= 2016-09-26
-draft= false
+---
+title: Detox Your Life
+date: 2016-09-26
+draft: false
 
-author= "Susan Conradie"
-featured= "images/uploads/detox.jpg"
-featuredalt= "Detox your life"
-tags= ["detox", "dietetics", "health", "lifestyle", "nutrition"]
-+++
+author: Susan Conradie
+featured: images/uploads/detox.jpg
+featuredalt: Detox your life
+tags: ["detox", "dietetics", "health", "lifestyle", "nutrition"]
+---
 
 We live in a consumer driven age, in a consumer driven world. Everything needs to be quick and easy, and if it’s not, we are not interested. So we do the same with our health. A 3-day detox, or a 2 week diet. We do not realise how much damage the diet culture is doing to our health.
 

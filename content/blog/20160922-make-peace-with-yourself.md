@@ -1,13 +1,13 @@
-+++
-title= "Make Peace With Yourself"
-date= 2016-09-22
-draft= false
+---
+title: Make Peace With Yourself
+date: 2016-09-22
+draft: false
 
-author= "Susan Conradie"
-featured= "images/uploads/peace.jpg"
-featuredalt= "Make peace with yourself"
-tags= ["body-image", "health", "nutrition"]
-+++
+author: Susan Conradie
+featured: images/uploads/peace.jpg
+featuredalt: Make peace with yourself
+tags: ["body-image", "health", "nutrition"]
+---
 
 If I asked you, who you would like to look like, what would you say? You’ll probably say some movie star, model or athlete. If I asked your how happy you are with the way you look, what will your answer be?
 

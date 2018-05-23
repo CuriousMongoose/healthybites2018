@@ -1,13 +1,12 @@
-+++
-title= "Experience It All"
-date= 2016-10-04
-draft= false
-
-author= "Susan Conradie"
-featured= "images/uploads/experience.jpg"
-featuredalt= "Experience it all"
-tags= ["balance", "dietetics", "health", "lifestyle", "nutrition"]
-+++
+---
+title: Experience It All
+date: 2016-10-04
+draft: false
+author: Susan Conradie
+featured: images/uploads/experience.jpg
+featuredalt: Experience it all
+tags: ["balance", "dietetics", "health", "lifestyle", "nutrition"]
+---
 
 You need to fix your relationship with food. Food was created to nourish your body and to be enjoyed in the right way. Not to be abused. You need to fix your relationship with food. You cannot use it as a tool to make you feel better when you are down or needs comfort. Balance is the key, whenever you exaggerate anything it becomes unhealthy.
 
